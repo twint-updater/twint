@@ -42,7 +42,7 @@ Twitter limits scrolls while browsing the user timeline. This means that with `.
 
 **Git:**
 ```bash
-git clone --depth=1 https://github.com/twintproject/twint.git
+git clone --depth=1 https://github.com/twint-updater/twint.git
 cd twint
 pip3 install . -r requirements.txt
 ```
